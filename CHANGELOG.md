@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.4.2] - 2026-02-18
+
+### Fixed
+
+- Avoid losing items from `flycheck-languagetool-check-params`.
+- Prevent an error when buffer is deleted during a long-running check.
+
 ## [0.4.1] - 2022-10-18
 
 ### Added
